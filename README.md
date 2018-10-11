@@ -1,0 +1,2 @@
+# OpenTranslatorCPP
+Natural language translator.
